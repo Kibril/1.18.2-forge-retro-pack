@@ -13,7 +13,7 @@ adaptingModifierCap = 15.0
 	maxY = 120
 	#Ore vein count
 	#Range: 1 ~ 100
-	veinCount = 50
+	veinCount = 20
 	#Ore vein size
 	#Range: 1 ~ 10
 	veinSize = 4
